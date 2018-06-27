@@ -12,4 +12,4 @@ Will include a number of performance metrics to show if performance is degrading
     
 The goal is to provide server administrators with a convenient representation of server health, to prompt further investigation when necessary.
 
-User experience should involve an applet to enter initial parameters, and then a small taskbar box will open that shows flashing requests and/or solid health/problem colors.
+User experience should involve an applet to enter initial parameters, and then a small taskbar box (or usb led device) will open that shows flashing requests and/or solid health/problem colors.
